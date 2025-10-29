@@ -1,0 +1,8 @@
+{
+  "name": "Copy of TOUNSI تونسي",
+  "description": "A Tunisian social network application that provides features like a social feed, chat, video calls, and a marketplace. The app supports both Arabic and French languages.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
